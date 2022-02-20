@@ -25,6 +25,7 @@ body {
     color: white;
     position: absolute;
     backface-visibility: hidden;
+    cursor: pointer;
 }
 
 #front{
